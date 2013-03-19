@@ -1,7 +1,7 @@
 #for DSSCOMP
 /dev/dsscomp              0666   system     system
 
-/dev/pvrsrvkm	   0666	  root	    root
+/dev/pvrsrvkm     0666	  root	    root
 /dev/block/mmcblk0p1      0640   root       system
 /dev/block/mmcblk0p2      0640   root       system
 /dev/block/mmcblk0p3      0640   root       system
